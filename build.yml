@@ -19,12 +19,7 @@ wp8:
 android:
   manifest_template: 'AndroidManifest.erb'
   version: 4.4.2
-
 wm:
   #sdk: "MC3000c50b (ARMV4I)"
   #sdk: "Windows Mobile 6.5.3 Professional DTK (ARMV4I)"
-
-capabilities:
-- push
-
 extensions: ["rhoconnect-client"]
