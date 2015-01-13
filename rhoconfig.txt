@@ -1,3 +1,5 @@
+# My rhoconfig.yml file
+#
 # startup page for your application
 start_path = '/app'
 ### 1

@@ -1,3 +1,4 @@
+# My build.yml file
 sdk: "/Users/alexb/.rvm/gems/ruby-1.9.3-p547/gems/rhodes-5.0.3.beta.12"
 # sdkversion: 5.0.0
 name: rho-demo
@@ -24,5 +25,5 @@ wm:
   #sdk: "Windows Mobile 6.5.3 Professional DTK (ARMV4I)"
 extensions: ["rhoconnect-client"]
 
-server_url: 
+server_url:
   - https://rms.rhomobile.com/api/v1
